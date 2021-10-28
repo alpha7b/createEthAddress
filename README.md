@@ -1,7 +1,11 @@
 # createEthAddress
 
-npm init
-npm install -g yarn
+`npm init`
 
-node ethAddress_single.js
-node ethAddress_multi.js
+`npm install -g yarn`
+
+# create single address
+`node ethAddress_single.js`
+
+# create muilti address
+`node ethAddress_multi.js`
