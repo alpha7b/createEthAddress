@@ -1,6 +1,6 @@
 # createEthAddress
 
-`npm init`
+`npm init -y`
 
 `npm install -g yarn`
 
